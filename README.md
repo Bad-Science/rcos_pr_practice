@@ -10,4 +10,4 @@ To do so:
 6) Open a pull request from your fork to this repository
 
 ## Projects
-- Aneesh Venuturumilli - Second String
+- Aneesh Venuturumilli-Second String
