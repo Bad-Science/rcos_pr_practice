@@ -13,4 +13,5 @@ To do so:
 - Richie Young - YACS
 - Cameron Root - YACS
 - Ayushi Mishra - YACS
+- Yuze Ma - YACS
 - Rex Hu - Shuttle Tracker
