@@ -13,4 +13,4 @@ To do so:
 - Richie Young - YACS
 - Cameron Root - YACS
 - Ayushi Mishra - YACS
-  Lucas Sheldon - Kuberlytics
+- Lucas Sheldon - Kuberlytics
