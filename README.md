@@ -10,6 +10,4 @@ To do so:
 6) Open a pull request from your fork to this repository
 
 ## Projects
-- Richie Young - YACS
-- Cameron Root - YACS
-- Ayushi Mishra - YACS
+- Aneesh Venuturumilli-Second String
