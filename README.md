@@ -14,3 +14,4 @@ To do so:
 - Cameron Root - YACS
 - Ayushi Mishra - YACS
 - Rex Hu - Shuttle Tracker
+- Steev James - RCOS
